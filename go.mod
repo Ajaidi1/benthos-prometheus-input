@@ -3,7 +3,7 @@ module benthos-prometheus-input
 go 1.18
 
 require (
-	github.com/benthosdev/benthos/v4 v4.10.0
+	github.com/benthosdev/benthos/v4 v4.12.1
 	github.com/prometheus/prometheus v0.44.0
 )
 
